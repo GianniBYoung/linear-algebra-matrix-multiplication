@@ -9,6 +9,7 @@ new lines and columns separated by commas must be provided. These files must be 
 
 Examples are included in the repo.
 Matrix example:
+3,4
 
 1,2,3,4
 
